@@ -1,0 +1,11 @@
+{
+    "port":3300,
+    "database":{
+        "name":"Practice24",
+        "uri":"mongodb://localhost:27017"
+    },
+    "hash":{
+        "salt":10
+    }
+
+}
